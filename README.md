@@ -56,7 +56,7 @@ This project analyzes sales data from Ferns N Petals (FNP) to uncover business i
 
 ## 📊 Dashboard Preview
 
-![FNP Dashboard](FNP Dashboard_SS.png)
+FNP Dashboard_SS.png
 
 ## 👤 Author
 Ranjith Kumar V
