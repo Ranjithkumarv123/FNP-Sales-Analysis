@@ -44,7 +44,7 @@ This project analyzes sales data from Ferns N Petals (FNP) to uncover business i
 
 - `Ranjith FNP Excel Project.xlsx` – Excel dashboard and analysis
 - `README.md` – Project documentation
-
+- `FNP-Sales-Analysis` – FNP Dashboard_SS.png
 ## 🚀 Skills Demonstrated
 
 - Data Cleaning
