@@ -54,9 +54,5 @@ This project analyzes sales data from Ferns N Petals (FNP) to uncover business i
 - Business Intelligence
 - Microsoft Excel
 
-## 📊 Dashboard Preview
-
-FNP Dashboard_SS.png
-
 ## 👤 Author
 Ranjith Kumar V
